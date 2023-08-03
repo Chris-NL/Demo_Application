@@ -5,7 +5,13 @@
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
+    <string name="camera">Camera</string>
+    <string name="camera_message">Scan a QR Code</string>
+    <string name="camera_permission">This App requires permission to access the camera in order to scan the QR Code. Go into the phone settings and change the permission for this App.</string>
+    <string name="camera_permission_denied">This App requires permission to access the camera in order to scan the QR Code. Go into the phone settings and change the permission for this App.</string>
+    <string name="camera_scan_check">Validating scanned QR Code</string>
     <string name="previous">Previous</string>
+    <string name="generic_ok">Ok</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
